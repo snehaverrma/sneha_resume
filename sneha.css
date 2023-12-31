@@ -1,0 +1,42 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    padding-left: 10px;
+    background-color: #BFCFE7;
+    color:  #3D3B40;
+
+}
+.subheading{
+    color: #050c76;
+    text-decoration: underline;
+    font-weight: 700;
+}
+a{
+    text-decoration: none;
+    color: #525CEB;
+}
+.header1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.pic1{
+    border-radius: 50%;
+    align-self: center;
+}
+h2{
+    text-align: center;
+    font-size: 2rem;
+}
+pre{
+    padding: 10vh;
+}
+hr{
+    border-bottom: 1px solid black;
+}
+h1{
+    font-size: 5rem;
+}
+span{
+    color: #525CEB;
+}
